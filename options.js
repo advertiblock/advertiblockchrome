@@ -675,6 +675,9 @@ function updateFilterLists()
 // Adds a subscription entry to the UI.
 function addSubscriptionEntry(subscription)
 {
+
+  if(subscription.hidden) return true;
+
   var template = document.getElementById("subscriptionTemplate");
   var element = template.cloneNode(true);
   element.removeAttribute("id");
