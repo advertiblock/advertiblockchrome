@@ -96,15 +96,6 @@ function loadOptions()
   document.title = i18n.getMessage("options");
 
   // Set links
-  getPref("subscriptions_exceptionsurl", function(url)
-  {
-    acceptableAdsUrl = url;
-    $("#acceptableAdsLink").attr("href", acceptableAdsUrl);
-  });
-  getDocLink("acceptable_ads", function(url)
-  {
-    $("#acceptableAdsDocs").attr("href", url);
-  });
   getDocLink("filterdoc", function(url)
   {
     setLinks("filter-must-follow-syntax", url);
@@ -128,7 +119,6 @@ function loadOptions()
   $("#startSubscriptionSelection").click(startSubscriptionSelection);
   $("#subscriptionSelector").change(updateSubscriptionSelection);
   $("#addSubscription").click(addSubscriptionClicked);
-  $("#acceptableAds").click(toggleAcceptableAds);
   $("#whitelistForm").submit(addWhitelistDomain);
   $("#removeWhitelist").click(removeSelectedExcludedDomain);
   $("#customFilterForm").submit(addTypedFilter);
