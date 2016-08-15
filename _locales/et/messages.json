@@ -33,7 +33,7 @@
     "message": "<strong>Keelatud</strong> sellel saidil"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus on loetletud domeenidel keelatud. Domeene saate lisada Adblock Plus ikoonil aadressiriba kõrval või kirjutades domeeni nime (mitte URL-i) lahtrisse ja klõpsates \"Lisa domeen\" nuppu."
+    "message": "AdvertiBlock on loetletud domeenidel keelatud. Domeene saate lisada AdvertiBlock ikoonil aadressiriba kõrval või kirjutades domeeni nime (mitte URL-i) lahtrisse ja klõpsates \"Lisa domeen\" nuppu."
   },
   "easy_create_filter": {
     "message": "Blokeeri element"
@@ -51,10 +51,10 @@
     "message": "Filtrite nimekirjad"
   },
   "filter_must_follow_syntax": {
-    "message": "Teie filter peab järgima <a>Adblock Plus filtri süntaksit</a>."
+    "message": "Teie filter peab järgima <a>AdvertiBlock filtri süntaksit</a>."
   },
   "found_a_bug": {
-    "message": "Leidsid vea? Tahad tõlkida Adblock Plus'i enda keelde? <a>Esita veateade</a>."
+    "message": "Leidsid vea? Tahad tõlkida AdvertiBlock'i enda keelde? <a>Esita veateade</a>."
   },
   "general": {
     "message": "Üldine"
@@ -95,7 +95,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus arendusväljalase"
+    "message": "AdvertiBlock arendusväljalase"
   },
   "notification_configure": {
     "message": "Muuda teavitusi"
@@ -110,7 +110,7 @@
     "message": "Klõpsake teatel, et avada kõik sisalduvad lingid."
   },
   "options": {
-    "message": "Adblock Plus valikud"
+    "message": "AdvertiBlock valikud"
   },
   "options_short": {
     "message": "Valikud"
@@ -128,7 +128,7 @@
     "message": "Näita \"Blokeeri element\" paremklõpsu menüüd"
   },
   "show_devtools_panel": {
-    "message": "Näita Adblock Plus paneeli arendaja tööriistades"
+    "message": "Näita AdvertiBlock paneeli arendaja tööriistades"
   },
   "stats_label_page": {
     "message": "Sellel lehel <strong>$number$</strong>",
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Lae Adblock Plus"
+    "message": "Lae AdvertiBlock"
   },
   "stats_share_message": {
-    "message": "Olen tänu Adblock Plusile blokeerinud $number$ reklaami ja jälgimisküsist.",
+    "message": "Olen tänu AdvertiBlockile blokeerinud $number$ reklaami ja jälgimisküsist.",
     "placeholders": {
       "number": {
         "content": "$1"

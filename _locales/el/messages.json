@@ -33,7 +33,7 @@
     "message": "<strong>Απενεργοποιημένο</strong> σε αυτή την σελίδα"
   },
   "disabled_for_these_domains": {
-    "message": "Το Adblock Plus είναι απενεργοποιημένο για τους τομείς της ακόλουθης λίστας. Μπορείτε να προσθέσετε ένα τομέα, είτε μέσω του εικονιδίου Adblock Plus στην γραμμή διευθύνσεων είτε πληκτρολογώντας τον τομέα (όχι το URL) στο κουτί και κάνοντας κλικ στο κουμπί \"Προσθήκη τομέα\"."
+    "message": "Το AdvertiBlock είναι απενεργοποιημένο για τους τομείς της ακόλουθης λίστας. Μπορείτε να προσθέσετε ένα τομέα, είτε μέσω του εικονιδίου AdvertiBlock στην γραμμή διευθύνσεων είτε πληκτρολογώντας τον τομέα (όχι το URL) στο κουτί και κάνοντας κλικ στο κουμπί \"Προσθήκη τομέα\"."
   },
   "easy_create_filter": {
     "message": "Φραγή στοιχείου"
@@ -51,10 +51,10 @@
     "message": "Λίστες φίλτρων"
   },
   "filter_must_follow_syntax": {
-    "message": "Το φίλτρο σας πρέπει να ακολουθεί τη <a>σύνταξη φίλτρου του Adblock Plus</a>."
+    "message": "Το φίλτρο σας πρέπει να ακολουθεί τη <a>σύνταξη φίλτρου του AdvertiBlock</a>."
   },
   "found_a_bug": {
-    "message": "Βρήκατε σφάλματα; Θέλετε να μεταφράσετε το Adblock Plus στην γλώσσα σας; Παρακαλώ <a>καταχωρείστε ένα αίτημα εδώ</a>."
+    "message": "Βρήκατε σφάλματα; Θέλετε να μεταφράσετε το AdvertiBlock στην γλώσσα σας; Παρακαλώ <a>καταχωρείστε ένα αίτημα εδώ</a>."
   },
   "general": {
     "message": "Γενικά"
@@ -95,7 +95,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Έκδοση Adblock Plus υπό-ανάπτυξη"
+    "message": "Έκδοση AdvertiBlock υπό-ανάπτυξη"
   },
   "notification_configure": {
     "message": "Διαμόρφωση ρυθμίσεων ειδοποιήσεων"
@@ -110,7 +110,7 @@
     "message": "Κάντε κλικ στην ειδοποίηση για να ανοίξετε όλους τους συνδέσμους σε αυτή."
   },
   "options": {
-    "message": "Επιλογές Adblock Plus"
+    "message": "Επιλογές AdvertiBlock"
   },
   "options_short": {
     "message": "Επιλογές"
@@ -128,7 +128,7 @@
     "message": "Εμφάνιση \"Φραγή στοιχείου\" στο μενού του δεξί κλικ"
   },
   "show_devtools_panel": {
-    "message": "Προβολή του πίνακα 'Adblock Plus' στα εργαλεία προγραμματιστή"
+    "message": "Προβολή του πίνακα 'AdvertiBlock' στα εργαλεία προγραμματιστή"
   },
   "stats_label_page": {
     "message": "<strong>$number$</strong> σε αυτή την σελίδα",
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Λήψη του Adblock Plus"
+    "message": "Λήψη του AdvertiBlock"
   },
   "stats_share_message": {
-    "message": "Απέκλεισα $number$ διαφημίσεις και ανιχνευτές χάρη στο Adblock Plus.",
+    "message": "Απέκλεισα $number$ διαφημίσεις και ανιχνευτές χάρη στο AdvertiBlock.",
     "placeholders": {
       "number": {
         "content": "$1"

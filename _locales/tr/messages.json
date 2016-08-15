@@ -33,7 +33,7 @@
     "message": "Bu sitede <strong>devre dışı</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus aşağıdaki adresler için devre dışı bırakıldı. Adresleri adres çubuğundaki Adblock simgesinden ekleyebilir veya alan adını (URL'yi değil) kutucuğa yazıp \"Alan adını ekle\" butonuna tıklayabilirsin."
+    "message": "AdvertiBlock aşağıdaki adresler için devre dışı bırakıldı. Adresleri adres çubuğundaki Adblock simgesinden ekleyebilir veya alan adını (URL'yi değil) kutucuğa yazıp \"Alan adını ekle\" butonuna tıklayabilirsin."
   },
   "easy_create_filter": {
     "message": "Öğeyi Engelle"
@@ -51,10 +51,10 @@
     "message": "Filtre listesi"
   },
   "filter_must_follow_syntax": {
-    "message": "Eklediğiniz filtre <a>Adblock Plus filtre kurallarına</a> uymak zorundadır."
+    "message": "Eklediğiniz filtre <a>AdvertiBlock filtre kurallarına</a> uymak zorundadır."
   },
   "found_a_bug": {
-    "message": "Hata mı buldunuz? Adblock Plus'ı kendi dilinize mi çevirmek istiyorsunuz? Lütfen <a>buradan dosya isteyiniz</a>."
+    "message": "Hata mı buldunuz? AdvertiBlock'ı kendi dilinize mi çevirmek istiyorsunuz? Lütfen <a>buradan dosya isteyiniz</a>."
   },
   "general": {
     "message": "Genel"
@@ -95,7 +95,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus geliştirme sürümü"
+    "message": "AdvertiBlock geliştirme sürümü"
   },
   "notification_configure": {
     "message": "Bildirim ayarlarını yapılandırma"
@@ -110,7 +110,7 @@
     "message": "Bildirimdeki tüm bağlantıları açmak için bildirim üzerine tıklayın."
   },
   "options": {
-    "message": "Adblock Plus Seçenekleri"
+    "message": "AdvertiBlock Seçenekleri"
   },
   "options_short": {
     "message": "Ayarlar"
@@ -131,7 +131,7 @@
     "message": "Sağ tık menüsünde 'Öğeyi Engelle' seçeneğini göster"
   },
   "show_devtools_panel": {
-    "message": "Geliştirici araçlarında 'Adblock Plus' panelini göster"
+    "message": "Geliştirici araçlarında 'AdvertiBlock' panelini göster"
   },
   "stats_label_page": {
     "message": "Bu sayfada <strong>$number$</strong>",
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblock Plus'ı indir"
+    "message": "AdvertiBlock'ı indir"
   },
   "stats_share_message": {
-    "message": "$number$ reklamı ve izleyiciyi Adblock Plus sayesinde engelledim.",
+    "message": "$number$ reklamı ve izleyiciyi AdvertiBlock sayesinde engelledim.",
     "placeholders": {
       "number": {
         "content": "$1"

@@ -33,7 +33,7 @@
     "message": "<strong>Zakázané</strong> na tejto stránke"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus je vypnutý v doménach uvedených nižšie. Môžete pridať doménu buď cez ikonu Adblock Plus v paneli s adresou alebo zadaním domény (nie URL) do poľa a kliknutím na tlačidlo \"Pridať doménu\"."
+    "message": "AdvertiBlock je vypnutý v doménach uvedených nižšie. Môžete pridať doménu buď cez ikonu AdvertiBlock v paneli s adresou alebo zadaním domény (nie URL) do poľa a kliknutím na tlačidlo \"Pridať doménu\"."
   },
   "easy_create_filter": {
     "message": "Blokovať prvok"
@@ -51,10 +51,10 @@
     "message": "Zoznamy filtrov"
   },
   "filter_must_follow_syntax": {
-    "message": "Váš filter musí spĺňať <a>syntax filtrov Adblock Plus</a>."
+    "message": "Váš filter musí spĺňať <a>syntax filtrov AdvertiBlock</a>."
   },
   "found_a_bug": {
-    "message": "Nájdené chyba? Chcete preložiť Adblock Plus do vášho jazyka? Prosím <a> zadajte žiadosť tu</a>."
+    "message": "Nájdené chyba? Chcete preložiť AdvertiBlock do vášho jazyka? Prosím <a> zadajte žiadosť tu</a>."
   },
   "general": {
     "message": "Všeobecné"
@@ -95,7 +95,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Vývojová verzia Adblock Plus"
+    "message": "Vývojová verzia AdvertiBlock"
   },
   "notification_configure": {
     "message": "Konfigurovať nastavenia upozornení"
@@ -110,7 +110,7 @@
     "message": "Kliknite na upozornenie pre otvorenie všetkých odkazov v ňom."
   },
   "options": {
-    "message": "Adblock Plus nastavenia"
+    "message": "AdvertiBlock nastavenia"
   },
   "options_short": {
     "message": "Možnosti"
@@ -128,7 +128,7 @@
     "message": "Zobrazovať v kontextovom menu položku 'Blokovať prvok'"
   },
   "show_devtools_panel": {
-    "message": "Ukázať \"Adblock Plus\" panel v sekcii vývojárske nástroje"
+    "message": "Ukázať \"AdvertiBlock\" panel v sekcii vývojárske nástroje"
   },
   "stats_label_page": {
     "message": "<strong>$number$</strong> na tejto stránke",
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Stiahnuť Adblock Plus"
+    "message": "Stiahnuť AdvertiBlock"
   },
   "stats_share_message": {
-    "message": "Zablokoval som $number$ reklám a sledovačov vďaka Adblock Plus.",
+    "message": "Zablokoval som $number$ reklám a sledovačov vďaka AdvertiBlock.",
     "placeholders": {
       "number": {
         "content": "$1"

@@ -33,7 +33,7 @@
     "message": "<strong>Uitgeschakeld</strong> op deze site"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus is uitgeschakeld voor de hieronder vermelde domeinen. U kunt een domein toevoegen via het Adblock Plus logo in de adresbalk, of door het domein (geen URL) in het vak te typen en te klikken op \"Domein toevoegen\"."
+    "message": "AdvertiBlock is uitgeschakeld voor de hieronder vermelde domeinen. U kunt een domein toevoegen via het AdvertiBlock logo in de adresbalk, of door het domein (geen URL) in het vak te typen en te klikken op \"Domein toevoegen\"."
   },
   "easy_create_filter": {
     "message": "Element blokkeren"
@@ -51,10 +51,10 @@
     "message": "Filterlijsten"
   },
   "filter_must_follow_syntax": {
-    "message": "Je filter moet de <a>Adblock Plus filter syntax</a> volgen."
+    "message": "Je filter moet de <a>AdvertiBlock filter syntax</a> volgen."
   },
   "found_a_bug": {
-    "message": "Heb je een bug gevonden? Wil je helpen Adblock Plus te vertalen naar je eigen taal? Dien <a>hier een verzoek in</a>."
+    "message": "Heb je een bug gevonden? Wil je helpen AdvertiBlock te vertalen naar je eigen taal? Dien <a>hier een verzoek in</a>."
   },
   "general": {
     "message": "Algemeen"
@@ -95,7 +95,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus experimentele versie"
+    "message": "AdvertiBlock experimentele versie"
   },
   "notification_configure": {
     "message": "Configureer notificatie instellingen"
@@ -110,7 +110,7 @@
     "message": "Klik op de melding om alle links erin te openen."
   },
   "options": {
-    "message": "Adblock Plus opties"
+    "message": "AdvertiBlock opties"
   },
   "options_short": {
     "message": "Opties"
@@ -128,7 +128,7 @@
     "message": "Toon 'Element blokkeren' in het rechtermuisklik menu"
   },
   "show_devtools_panel": {
-    "message": "Toon \"Adblock Plus\" paneel in het ontwikkellaarsscherm"
+    "message": "Toon \"AdvertiBlock\" paneel in het ontwikkellaarsscherm"
   },
   "stats_label_page": {
     "message": "<strong>$number$</strong> op deze pagina",
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblock Plus downloaden"
+    "message": "AdvertiBlock downloaden"
   },
   "stats_share_message": {
-    "message": "Ik heb $number$ advertenties en trackers geblokkeerd dankzij Adblock Plus.",
+    "message": "Ik heb $number$ advertenties en trackers geblokkeerd dankzij AdvertiBlock.",
     "placeholders": {
       "number": {
         "content": "$1"

@@ -33,7 +33,7 @@
     "message": "このサイトで<strong>無効</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus を以下のドメインで無効にします。アドレスバーの Adblock Plus アイコン、または下の欄にドメイン（URL ではない）を入力し「ドメインを追加」ボタンで追加できます。"
+    "message": "AdvertiBlock を以下のドメインで無効にします。アドレスバーの AdvertiBlock アイコン、または下の欄にドメイン（URL ではない）を入力し「ドメインを追加」ボタンで追加できます。"
   },
   "easy_create_filter": {
     "message": "要素をブロック"
@@ -51,10 +51,10 @@
     "message": "フィルタリスト"
   },
   "filter_must_follow_syntax": {
-    "message": "<a>Adblock Plus フィルタの書式</a> に準拠したフィルタを記述しなければなりません。"
+    "message": "<a>AdvertiBlock フィルタの書式</a> に準拠したフィルタを記述しなければなりません。"
   },
   "found_a_bug": {
-    "message": "バグを発見? Adblock Plus を翻訳したい? その場合は <a>ここよりリクエスト</a> 願います。"
+    "message": "バグを発見? AdvertiBlock を翻訳したい? その場合は <a>ここよりリクエスト</a> 願います。"
   },
   "general": {
     "message": "一般"
@@ -95,7 +95,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus 開発版"
+    "message": "AdvertiBlock 開発版"
   },
   "notification_configure": {
     "message": "通知について設定する"
@@ -110,7 +110,7 @@
     "message": "通知内すべてのリンクを開くにはここをクリックしてください。"
   },
   "options": {
-    "message": "Adblock Plus オプション"
+    "message": "AdvertiBlock オプション"
   },
   "options_short": {
     "message": "オプション"
@@ -131,7 +131,7 @@
     "message": "右クリックメニューに「要素をブロック」を表示"
   },
   "show_devtools_panel": {
-    "message": "開発者ツールに「Adblock Plus」パネルを表示"
+    "message": "開発者ツールに「AdvertiBlock」パネルを表示"
   },
   "stats_label_page": {
     "message": "このページ内で <strong>$number$</strong>",
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Adblock Plus をダウンロード"
+    "message": "AdvertiBlock をダウンロード"
   },
   "stats_share_message": {
-    "message": "Adblock Plus のおかげで累計 $number$ 箇所の広告と追跡がブロックされました。",
+    "message": "AdvertiBlock のおかげで累計 $number$ 箇所の広告と追跡がブロックされました。",
     "placeholders": {
       "number": {
         "content": "$1"

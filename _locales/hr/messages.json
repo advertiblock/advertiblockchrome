@@ -33,7 +33,7 @@
     "message": "<strong>Onemogućeno</strong> na ovoj stranici"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus je onemogućen za domene na popisu ispod. Možete dodati domenu ili pomoću Adblock Plus ikone u adresnoj traci ili upisivanjem domene (ne URL-a) u polju ispod i klikom na tipku \"Dodaj domenu\"."
+    "message": "AdvertiBlock je onemogućen za domene na popisu ispod. Možete dodati domenu ili pomoću AdvertiBlock ikone u adresnoj traci ili upisivanjem domene (ne URL-a) u polju ispod i klikom na tipku \"Dodaj domenu\"."
   },
   "easy_create_filter": {
     "message": "Blokiraj element"
@@ -51,10 +51,10 @@
     "message": "Popisi filtera"
   },
   "filter_must_follow_syntax": {
-    "message": "Vaš filter mora slijediti <a>Adblock Plus filter sintaksu</a>."
+    "message": "Vaš filter mora slijediti <a>AdvertiBlock filter sintaksu</a>."
   },
   "found_a_bug": {
-    "message": "Pronašli ste grešku? Želite prevesti Adblock Plus na svoj jezik? <a>Podnesite zahtjev ovdje</a>."
+    "message": "Pronašli ste grešku? Želite prevesti AdvertiBlock na svoj jezik? <a>Podnesite zahtjev ovdje</a>."
   },
   "general": {
     "message": "Općenito"
@@ -95,7 +95,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus razvojna inačica"
+    "message": "AdvertiBlock razvojna inačica"
   },
   "notification_configure": {
     "message": "Podesi postavke obavijesti"
@@ -110,7 +110,7 @@
     "message": "Kliknite na obavijest za otvaranje svih poveznica koje sadrži."
   },
   "options": {
-    "message": "Adblock Plus mogućnosti"
+    "message": "AdvertiBlock mogućnosti"
   },
   "options_short": {
     "message": "Mogućnosti"
@@ -131,7 +131,7 @@
     "message": "Prikaži 'Blokiraj element' stavku izbornika desnog klika"
   },
   "show_devtools_panel": {
-    "message": "Prikaži 'Adblock Plus' ploču u razvojnim alatima"
+    "message": "Prikaži 'AdvertiBlock' ploču u razvojnim alatima"
   },
   "stats_label_page": {
     "message": "<strong>$number$</strong> na ovoj stranici",
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Preuzmi Adblock Plus"
+    "message": "Preuzmi AdvertiBlock"
   },
   "stats_share_message": {
-    "message": "Blokirao sam $number$ reklama i pratitelja zahvaljujući Adblock Plusu.",
+    "message": "Blokirao sam $number$ reklama i pratitelja zahvaljujući AdvertiBlocku.",
     "placeholders": {
       "number": {
         "content": "$1"

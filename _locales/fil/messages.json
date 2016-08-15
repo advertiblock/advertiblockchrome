@@ -33,7 +33,7 @@
     "message": "<strong>Hindi Maaari</strong> sa site na ito"
   },
   "disabled_for_these_domains": {
-    "message": "Ang Adblock Plus ay hindi gumagana sa mga nakalistang domains. Maaari kang magdagdag ng domain sa pamamagitan ng Adblock Plus icon sa address bar o maaari ding ilagay ang domain (hindi URL) sa may kahon at pindutin ang \"Add domain\" button."
+    "message": "Ang AdvertiBlock ay hindi gumagana sa mga nakalistang domains. Maaari kang magdagdag ng domain sa pamamagitan ng AdvertiBlock icon sa address bar o maaari ding ilagay ang domain (hindi URL) sa may kahon at pindutin ang \"Add domain\" button."
   },
   "easy_create_filter": {
     "message": "Ihinto ang element"
@@ -51,10 +51,10 @@
     "message": "Listahan ng mga Filter"
   },
   "filter_must_follow_syntax": {
-    "message": "Ang iyong filter ay dapat nakasunod sa <a>Adblock Plus filter syntax</a>."
+    "message": "Ang iyong filter ay dapat nakasunod sa <a>AdvertiBlock filter syntax</a>."
   },
   "found_a_bug": {
-    "message": "Nakadiskobre ng bug? Gusto mo bang isalin ang Adblock Plus sa inyong wika? <a>ilagay ang inyong request dito</a>."
+    "message": "Nakadiskobre ng bug? Gusto mo bang isalin ang AdvertiBlock sa inyong wika? <a>ilagay ang inyong request dito</a>."
   },
   "general": {
     "message": "Pangkalahatan"
@@ -95,7 +95,7 @@
     }
   },
   "name_devbuild": {
-    "message": "pagbuo ng Adblock Plus"
+    "message": "pagbuo ng AdvertiBlock"
   },
   "notification_configure": {
     "message": "I-configure ang mga setting ng notification"
@@ -110,7 +110,7 @@
     "message": "Pindutin ang notification para mabuksan ang mga links."
   },
   "options": {
-    "message": "Opsyon sa Adblock Plus"
+    "message": "Opsyon sa AdvertiBlock"
   },
   "options_short": {
     "message": "Mga pagpipilian"
@@ -131,7 +131,7 @@
     "message": "Ipakita ang 'Ihinto ang element' sa right-click menu item"
   },
   "show_devtools_panel": {
-    "message": "Ipakita ang 'Adblock Plus' panel sa developer tools"
+    "message": "Ipakita ang 'AdvertiBlock' panel sa developer tools"
   },
   "stats_label_page": {
     "message": "<strong>$number$</strong> sa pahinang ito",
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "I - download ang Adblock Plus"
+    "message": "I - download ang AdvertiBlock"
   },
   "stats_share_message": {
-    "message": "Napigilan ko ang $number$ ads at trackers salamat sa Adblock Plus.",
+    "message": "Napigilan ko ang $number$ ads at trackers salamat sa AdvertiBlock.",
     "placeholders": {
       "number": {
         "content": "$1"

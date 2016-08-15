@@ -33,7 +33,7 @@
     "message": "<strong>Deaktiveret</strong> på dette websted"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus er deaktiveret for de domæner, der er angivet nedenfor. Du kan tilføje et domæne enten via ikonet Adblock Plus i adresselinjen eller ved at skrive domæne (ikke en URL) i boksen og klikke på knappen \"Tilføj domæne\"."
+    "message": "AdvertiBlock er deaktiveret for de domæner, der er angivet nedenfor. Du kan tilføje et domæne enten via ikonet AdvertiBlock i adresselinjen eller ved at skrive domæne (ikke en URL) i boksen og klikke på knappen \"Tilføj domæne\"."
   },
   "easy_create_filter": {
     "message": "Blokér element"
@@ -51,10 +51,10 @@
     "message": "Filterlister"
   },
   "filter_must_follow_syntax": {
-    "message": "Dit filter skal følge <a>Adblock Plus' filtersyntaks</a>."
+    "message": "Dit filter skal følge <a>AdvertiBlock' filtersyntaks</a>."
   },
   "found_a_bug": {
-    "message": "Har du fundet en fejl? Vil du oversætte Adblock Plus til dit sprog? Send <a>venligst din anmodning her</a>."
+    "message": "Har du fundet en fejl? Vil du oversætte AdvertiBlock til dit sprog? Send <a>venligst din anmodning her</a>."
   },
   "general": {
     "message": "Generelt"
@@ -95,7 +95,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus-udviklingsversion"
+    "message": "AdvertiBlock-udviklingsversion"
   },
   "notification_configure": {
     "message": "Konfigurer underretningsindstillinger"
@@ -110,7 +110,7 @@
     "message": "Klik på meddelelsen for at åbne alle genveje i den."
   },
   "options": {
-    "message": "Adblock Plus indstillinger"
+    "message": "AdvertiBlock indstillinger"
   },
   "options_short": {
     "message": "Indstillinger"
@@ -128,7 +128,7 @@
     "message": "Vis \"Blokér element\" i højrekliksmenu"
   },
   "show_devtools_panel": {
-    "message": "Vis \"Adblock Plus\"-panelet under Udviklingsværktøjer"
+    "message": "Vis \"AdvertiBlock\"-panelet under Udviklingsværktøjer"
   },
   "stats_label_page": {
     "message": "<strong>$number$</strong> på denne side",
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Download Adblock Plus"
+    "message": "Download AdvertiBlock"
   },
   "stats_share_message": {
-    "message": "Jeg har blokeret $number$ annoncer og sporingstjenester takket være Adblock Plus.",
+    "message": "Jeg har blokeret $number$ annoncer og sporingstjenester takket være AdvertiBlock.",
     "placeholders": {
       "number": {
         "content": "$1"

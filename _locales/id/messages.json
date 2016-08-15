@@ -33,7 +33,7 @@
     "message": "<strong>Nonaktifkan</strong> pada situs ini"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock menonaktifkan daftar domain di bawah. Anda dapat menambah sebuah domain melalui ikon Adblock Plus pada alamat bar atau dengan mengetikan domain (tidak sebuah URL) di sebuah boks dan klik tombol \"Tambah Domain\""
+    "message": "Adblock menonaktifkan daftar domain di bawah. Anda dapat menambah sebuah domain melalui ikon AdvertiBlock pada alamat bar atau dengan mengetikan domain (tidak sebuah URL) di sebuah boks dan klik tombol \"Tambah Domain\""
   },
   "easy_create_filter": {
     "message": "Blokir elemen"
@@ -51,10 +51,10 @@
     "message": "Daftar penyaring"
   },
   "filter_must_follow_syntax": {
-    "message": "Daftar penyaring Anda harus mengikuti <a>Sintaks Penyaring Adblock Plus</a>"
+    "message": "Daftar penyaring Anda harus mengikuti <a>Sintaks Penyaring AdvertiBlock</a>"
   },
   "found_a_bug": {
-    "message": "Menemukan sebuah celah? Ingin menerjemahkan Adblock Plus ke bahasa Anda? Silahkan  <a>Minta disini</a>."
+    "message": "Menemukan sebuah celah? Ingin menerjemahkan AdvertiBlock ke bahasa Anda? Silahkan  <a>Minta disini</a>."
   },
   "general": {
     "message": "Umum"
@@ -95,7 +95,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Struktur pengembangan Adblock Plus"
+    "message": "Struktur pengembangan AdvertiBlock"
   },
   "notification_configure": {
     "message": "Mengatur pengaturan pemberitahuan"
@@ -110,7 +110,7 @@
     "message": "Klik pada pemberitahuan untuk membuka semua link di dalamnya."
   },
   "options": {
-    "message": "Pengaturan Adblock Plus"
+    "message": "Pengaturan AdvertiBlock"
   },
   "options_short": {
     "message": "Pilihan"
@@ -131,7 +131,7 @@
     "message": "Tampilkan item menu \"Blokir elemen\" saat klik kanan"
   },
   "show_devtools_panel": {
-    "message": "Tampilkan panel 'Adblock Plus' pada peralatan pengembang"
+    "message": "Tampilkan panel 'AdvertiBlock' pada peralatan pengembang"
   },
   "stats_label_page": {
     "message": "<strong>$number$</strong> pada halaman ini",
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Unduh Adblock Plus"
+    "message": "Unduh AdvertiBlock"
   },
   "stats_share_message": {
-    "message": "Saya memblokir $number$ iklan dan pelacak berkat Adblock Plus.",
+    "message": "Saya memblokir $number$ iklan dan pelacak berkat AdvertiBlock.",
     "placeholders": {
       "number": {
         "content": "$1"

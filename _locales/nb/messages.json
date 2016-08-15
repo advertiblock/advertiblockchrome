@@ -33,7 +33,7 @@
     "message": "<strong>Deaktivert</strong> på dette nettstedet"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus er deaktivert for domenene listet nedenfor. Du kan legge til et domene enten ved å trykke på Adblock Plus-ikonet i adressefeltet, eller ved å skrive inn domenet (ikke via URL) i boksen og klikke på \"Legg til domene\"-knappen."
+    "message": "AdvertiBlock er deaktivert for domenene listet nedenfor. Du kan legge til et domene enten ved å trykke på AdvertiBlock-ikonet i adressefeltet, eller ved å skrive inn domenet (ikke via URL) i boksen og klikke på \"Legg til domene\"-knappen."
   },
   "easy_create_filter": {
     "message": "Blokkér element"
@@ -51,10 +51,10 @@
     "message": "Filterlister"
   },
   "filter_must_follow_syntax": {
-    "message": "Filtrene må følge syntaksen til <a>Adblock Plus-filtrene</a>."
+    "message": "Filtrene må følge syntaksen til <a>AdvertiBlock-filtrene</a>."
   },
   "found_a_bug": {
-    "message": "Har du funnet en feil? Vil du oversette Adblock Plus til ditt eget språk? Vennligst <a>send en forespørsel hit</a>."
+    "message": "Har du funnet en feil? Vil du oversette AdvertiBlock til ditt eget språk? Vennligst <a>send en forespørsel hit</a>."
   },
   "general": {
     "message": "Generelt"
@@ -95,7 +95,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus utviklerutgave"
+    "message": "AdvertiBlock utviklerutgave"
   },
   "notification_configure": {
     "message": "Tilpass varslingsinnstillinger"
@@ -110,7 +110,7 @@
     "message": "Trykk på varselet for å åpne alle koblingene."
   },
   "options": {
-    "message": "Alternativer for Adblock Plus"
+    "message": "Alternativer for AdvertiBlock"
   },
   "options_short": {
     "message": "Alternativer"
@@ -131,7 +131,7 @@
     "message": "Vis høyreklikkmenyvalget \"Blokkér element\""
   },
   "show_devtools_panel": {
-    "message": "Vis \"Adblock Plus\"-panel i utviklerverktøyene"
+    "message": "Vis \"AdvertiBlock\"-panel i utviklerverktøyene"
   },
   "stats_label_page": {
     "message": "<strong>$number$</strong> på denne siden",
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Last ned Adblock Plus"
+    "message": "Last ned AdvertiBlock"
   },
   "stats_share_message": {
-    "message": "Jeg blokkerte $number$ annonser og trackere, takket være Adblock Plus.",
+    "message": "Jeg blokkerte $number$ annonser og trackere, takket være AdvertiBlock.",
     "placeholders": {
       "number": {
         "content": "$1"

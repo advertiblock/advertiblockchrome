@@ -33,7 +33,7 @@
     "message": "<strong>Deshabilitado</strong> en este sitio"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus está desactivado para los dominios mostrados a continuación. Puedes añadir un dominio ya sea con el icono de Adblock Plus en la barra de direcciones o escribiendo el dominio (No la URL) en el recuadro y haciendo click en el botón \"Agregar dominio\"."
+    "message": "AdvertiBlock está desactivado para los dominios mostrados a continuación. Puedes añadir un dominio ya sea con el icono de AdvertiBlock en la barra de direcciones o escribiendo el dominio (No la URL) en el recuadro y haciendo click en el botón \"Agregar dominio\"."
   },
   "easy_create_filter": {
     "message": "Bloquear Elemento"
@@ -51,10 +51,10 @@
     "message": "Listas de filtros"
   },
   "filter_must_follow_syntax": {
-    "message": "El filtro debe seguir la <a>Sintaxis de filtros de Adblock Plus</a>."
+    "message": "El filtro debe seguir la <a>Sintaxis de filtros de AdvertiBlock</a>."
   },
   "found_a_bug": {
-    "message": "¿Encontraste un error? ¿Quieres traducir Adblock Plus en tu lenguaje? Por vafor <a>llene una solicitud aquí</a>."
+    "message": "¿Encontraste un error? ¿Quieres traducir AdvertiBlock en tu lenguaje? Por vafor <a>llene una solicitud aquí</a>."
   },
   "general": {
     "message": "General"
@@ -95,7 +95,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Versión de desarrollo de Adblock Plus"
+    "message": "Versión de desarrollo de AdvertiBlock"
   },
   "notification_configure": {
     "message": "Configurar opciones de notificación"
@@ -110,7 +110,7 @@
     "message": "Haz click en la notificación para abrir todos los enlaces en él."
   },
   "options": {
-    "message": "Opciones de Adblock Plus"
+    "message": "Opciones de AdvertiBlock"
   },
   "options_short": {
     "message": "Opciones"
@@ -131,7 +131,7 @@
     "message": "Mostrar opción \"Bloquear Elemento\" al hacer click derecho en el elemento"
   },
   "show_devtools_panel": {
-    "message": "Mostrar el panel de \"Adblock Plus\" en las herramientas de desarrollador"
+    "message": "Mostrar el panel de \"AdvertiBlock\" en las herramientas de desarrollador"
   },
   "stats_label_page": {
     "message": "<strong>$number$</strong> en esta página",
@@ -158,10 +158,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Descarga Adblock Plus"
+    "message": "Descarga AdvertiBlock"
   },
   "stats_share_message": {
-    "message": "He bloqueado $number$ anuncios y rastreadores gracias a Adblock Plus.",
+    "message": "He bloqueado $number$ anuncios y rastreadores gracias a AdvertiBlock.",
     "placeholders": {
       "number": {
         "content": "$1"

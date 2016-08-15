@@ -33,7 +33,7 @@
     "message": "Šiame puslapyje <strong>išjungta</strong>"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus žemiau išvardytiems domenams išjungtas. Pridėti domeną galite paspaudę Adblock Plus piktogramą, adreso juostoje arba įvesdami domeną (ne URL) ir paspausdami „Pridėti domeną“ mygtuką."
+    "message": "AdvertiBlock žemiau išvardytiems domenams išjungtas. Pridėti domeną galite paspaudę AdvertiBlock piktogramą, adreso juostoje arba įvesdami domeną (ne URL) ir paspausdami „Pridėti domeną“ mygtuką."
   },
   "easy_create_filter": {
     "message": "Blokuoti elementą"
@@ -51,10 +51,10 @@
     "message": "Filtrų sąrašai"
   },
   "filter_must_follow_syntax": {
-    "message": "Jūsų filtras turi atitikti <a>Adblock Plus filtrų sintaksę</a>."
+    "message": "Jūsų filtras turi atitikti <a>AdvertiBlock filtrų sintaksę</a>."
   },
   "found_a_bug": {
-    "message": "Radote klaidą? Norite išversti Adblock Plus į savo kalbą? Užpildykite <a>prašymą čia</a>."
+    "message": "Radote klaidą? Norite išversti AdvertiBlock į savo kalbą? Užpildykite <a>prašymą čia</a>."
   },
   "general": {
     "message": "Bendra"
@@ -95,7 +95,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus vystomasis leidimas"
+    "message": "AdvertiBlock vystomasis leidimas"
   },
   "notification_configure": {
     "message": "Konfigūruoti pranešimų nustatymus"
@@ -110,7 +110,7 @@
     "message": "Paspauskite ant pranešimo ir bus atvertos visos nuorodos jame."
   },
   "options": {
-    "message": "Adblock Plus parinktys"
+    "message": "AdvertiBlock parinktys"
   },
   "options_short": {
     "message": "Parinktys"
@@ -128,7 +128,7 @@
     "message": "Dešinio mygtuko meniu rodyti „Blokuoti elementą“"
   },
   "show_devtools_panel": {
-    "message": "Rodyti „Adblock Plus“ valdymo pultą kūrėjo įrankiuose"
+    "message": "Rodyti „AdvertiBlock“ valdymo pultą kūrėjo įrankiuose"
   },
   "stats_label_page": {
     "message": "<strong>$number$</strong> šiame puslapyje",
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Parsisiųsti Adblock Plus"
+    "message": "Parsisiųsti AdvertiBlock"
   },
   "stats_share_message": {
-    "message": "Adblock Plus dėka aš užblokavau $number$ reklamų.",
+    "message": "AdvertiBlock dėka aš užblokavau $number$ reklamų.",
     "placeholders": {
       "number": {
         "content": "$1"

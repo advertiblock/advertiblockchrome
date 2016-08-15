@@ -33,7 +33,7 @@
     "message": "<strong>Izslēgts</strong> šajā lapā"
   },
   "disabled_for_these_domains": {
-    "message": "Adblock Plus Jūsu izvēlētajos domēnos ir atslēgts. Jūs varat pievienot domēnu izmantojot Adblock Plus, kas atrodas adreses joslā, vai ievadot domēnu (nevis URL) kastē un noklikšķinot uz pogas \"Pievienot domēnu\"."
+    "message": "AdvertiBlock Jūsu izvēlētajos domēnos ir atslēgts. Jūs varat pievienot domēnu izmantojot AdvertiBlock, kas atrodas adreses joslā, vai ievadot domēnu (nevis URL) kastē un noklikšķinot uz pogas \"Pievienot domēnu\"."
   },
   "easy_create_filter": {
     "message": "Bloķēt elementu"
@@ -51,10 +51,10 @@
     "message": "Filtru saraksts"
   },
   "filter_must_follow_syntax": {
-    "message": "Filtram jāatbilst <a>Adblock Plus filtru sintaksei</a>."
+    "message": "Filtram jāatbilst <a>AdvertiBlock filtru sintaksei</a>."
   },
   "found_a_bug": {
-    "message": "Atradi defektu? Vēlies iztulkot Adblock Plus savā valodā? Lūdzu <a>iesniedz pieprasījumu šeit</a>."
+    "message": "Atradi defektu? Vēlies iztulkot AdvertiBlock savā valodā? Lūdzu <a>iesniedz pieprasījumu šeit</a>."
   },
   "general": {
     "message": "Vispārīgi"
@@ -95,7 +95,7 @@
     }
   },
   "name_devbuild": {
-    "message": "Adblock Plus attīstības programma"
+    "message": "AdvertiBlock attīstības programma"
   },
   "notification_configure": {
     "message": "Konfigurēt paziņojuma iestatījumus"
@@ -110,7 +110,7 @@
     "message": "Noklikšķiniet uz paziņojuma, lai atvērtu visas saites tajā."
   },
   "options": {
-    "message": "Adblock Plus Opcijas"
+    "message": "AdvertiBlock Opcijas"
   },
   "options_short": {
     "message": "Iespējas"
@@ -128,7 +128,7 @@
     "message": "Rādīt \"Bloķēt elementu'' labā klikšķa izvēlnē"
   },
   "show_devtools_panel": {
-    "message": "Parādīt \"Adblock Plus\" paneli izstrādātāja rīkos"
+    "message": "Parādīt \"AdvertiBlock\" paneli izstrādātāja rīkos"
   },
   "stats_label_page": {
     "message": "<strong>$number$</strong> šajā lapā",
@@ -155,10 +155,10 @@
     }
   },
   "stats_share_download": {
-    "message": "Lejuplādēt Adblock Plus"
+    "message": "Lejuplādēt AdvertiBlock"
   },
   "stats_share_message": {
-    "message": "Es esmu bloķējis $number$ reklāmas un trackerus, Paldies Adblock Plus.",
+    "message": "Es esmu bloķējis $number$ reklāmas un trackerus, Paldies AdvertiBlock.",
     "placeholders": {
       "number": {
         "content": "$1"
