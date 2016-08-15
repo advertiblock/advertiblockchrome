@@ -5,3 +5,10 @@
 *.pyc
 *.pyo
 *.sh
+
+/abp2blocklist/
+/adblockplus/
+/adblockplustests/
+/adblockplusui/
+/buildtools/
+/adblockpluscore/
